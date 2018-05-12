@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/577
     wikipedia: http://www.online-literature.com/myrtle-reed/
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18071#The-Spinster-Book
 gutenberg_issued: '2006-03-29'
 gutenberg_type: Text
 identifiers:
