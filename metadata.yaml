@@ -1,0 +1,33 @@
+_repo: The-Spinster-Book_18071
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 18071-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Reed, Myrtle
+    alias: Green, Olive
+    birthdate: 1874
+    deathdate: 1911
+    gutenberg_agent_id: '577'
+    url: http://www.gutenberg.org/2009/agents/577
+    wikipedia: http://www.online-literature.com/myrtle-reed/
+description: ''
+gutenberg_issued: '2006-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18071'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Courtship'
+- !lcsh 'Marriage'
+- !lcc 'HQ'
+tableOfContents: 'Notes on men -- Concerning women -- The philosophy of love -- The
+  lost art of courtship -- The natural history of proposals -- Love letters: old and
+  new -- An inquiry into marriage -- The physiology of vanity -- Widowers and widows
+  -- The consolations of spinsterhood.'
+title: The Spinster Book
+url: http://www.gutenberg.org/ebooks/18071
